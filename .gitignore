@@ -1,0 +1,19 @@
+# Binaries
+raga
+raga.exe
+mochi
+mochi.exe
+
+# Temp build artifacts
+.temp/
+.stress-failures/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
